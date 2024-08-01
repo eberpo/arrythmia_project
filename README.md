@@ -1,5 +1,5 @@
 # Double Assessment of Outflow Tract Ventricular Arrhythmias Using Deep Learning Techniques
-This repository is owned by Eric Berenguer (eberpo), and contains a project done by *Anna Maria Llopart*, *Laura Montserrat*, and *Eric Berenguer*. This project was presented at Universitat Pompeu Fabra and was done with the support and resources provided by the university. 
+This repository contains a project done by *Eric Berenguer*, *Anna Maria Llopart*, and *Laura Montserrat*. This project was presented at Universitat Pompeu Fabra and was done with the support and resources provided by the university. 
 
 The contents of the repository consist of the report and slides used for the project presentation and a Python notebook in which the code used for the project has been gathered and executed for illustrative purposes. The repository DOES NOT contain the data used in the project since it is unclear if it can be in the public domain in a raw form, but the data used and its structure are explained in the report.
 
